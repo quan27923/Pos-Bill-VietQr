@@ -15,7 +15,7 @@
     'data': [
         'views/pos_config_view.xml',
     ],
-    'images': ['static/description/banner.gif'],
+    'images': ['static/description/banner.png'],
     'license': 'OPL-1',
     'price': 12.0,
     'currency': 'EUR',
